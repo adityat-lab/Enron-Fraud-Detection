@@ -1,0 +1,8 @@
+              precision    recall  f1-score   support
+
+     Non-POI       0.91      0.83      0.87       125
+         POI       0.28      0.44      0.34        18
+
+    accuracy                           0.78       143
+   macro avg       0.59      0.64      0.61       143
+weighted avg       0.83      0.78      0.80       143
